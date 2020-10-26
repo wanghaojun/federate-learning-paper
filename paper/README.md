@@ -28,27 +28,15 @@
 
 ### FTL
 
-- A Secure Federated Transfer Learning
+- [A Secure Federated Transfer Learning](paper/A Secure Federated Transfer Learning.pdf)
 
 ### Other
 
 - 联邦学习的研究与应用-webank
 
-- [联邦学习白皮书_v2.0]: https://aisp-1251170195.cos.ap-hongkong.myqcloud.com/wp-content/uploads/pdf/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0%E7%99%BD%E7%9A%AE%E4%B9%A6_v2.0.pdf
+- [联邦学习白皮书 v2.0](https://aisp-1251170195.cos.ap-hongkong.myqcloud.com/wp-content/uploads/pdf/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0%E7%99%BD%E7%9A%AE%E4%B9%A6_v2.0.pdf)
 
   
 
 
-
-
-
-
-
-
-
-
-
-
-
-### 
 
