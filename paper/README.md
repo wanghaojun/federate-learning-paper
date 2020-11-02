@@ -17,7 +17,7 @@
 
 - Federated Learning Challenges,Methods,and Future Directions
 
-  [arxiv](https://arxiv.org/abs/1908.07873)      [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Federated Learning Challenges,Methods,and Future Directions)
+  [arxiv](https://arxiv.org/abs/1908.07873)      [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Federated%20Learning%20Challenges%2CMethods%2Cand%20Future%20Directions.pdf)
 
 - Threats to Federated Learning: A Survey
 
@@ -31,31 +31,31 @@
 
 - Communication-Efficient Learning of Deep Networks from Decentralized Data
 
-  [arxiv]()     [github]()
+  [arxiv](https://arxiv.org/abs/1602.05629)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Communication-Efficient%20Learning%20of%20Deep%20Networks%20from%20Decentralized%20Data.pdf)
 
 - Federated Learning For Mobile Keyboard Prediction
 
-  [arxiv]()     [github]()
+  [arxiv](https://arxiv.org/abs/1811.03604)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Federated%20Learning%20for%20Mobile%20Keyboard%20Prediction.pdf)
 
 - Practical Secure Aggregation for Federated learning on User-Held Data
 
-  [arxiv]()     [github]()
+  [arxiv](https://arxiv.org/abs/1611.04482)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Practical%20Secure%20Aggregation%20for%20Federated%20learning%20on%20User-Held%20Data.pdf)
 
 #### VFL
 
 - Multi-Participant Multi-Class Vertical Federated Learning
 
-  [arxiv]()     [github]()
+  [arxiv](https://arxiv.org/abs/2001.11154)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Multi-Participant%20Multi-Class%20Vertical%20Federated%20Learning.pdf)
 
 - SecureBoost: A Lossless Federated Learning Framework
 
-  [arxiv]()     [github]()
+  [arxiv](https://arxiv.org/abs/1901.08755)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/SecureBoost%20%20A%20Lossless%20Federated%20Learning%20Framework.pdf)
 
 #### FTL
 
-- [A Secure Federated Transfer Learning](paper/A Secure Federated Transfer Learning.pdf)
+- A Secure Federated Transfer Learning
 
-  [arxiv]()     [github]()
+  [arxiv](https://arxiv.org/abs/1812.03337)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/A%20Secure%20Federated%20Transfer%20Learning.pdf)
 
 ### Security
 
@@ -65,35 +65,35 @@
 
 - Practical secure aggregation for privacy-preserving machine learning
 
-  [arxiv]()     [github]()
+  [acm](https://dl.acm.org/doi/10.1145/3133956.3133982)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Practical%20secure%20aggregation%20for%20privacy-preserving%20machine%20learning.pdf)
 
 - privacy-preserving deep learning via additively homomorphic encryption
 
-  [arxiv]()     [github]()
+  [ieee](https://ieeexplore.ieee.org/document/8241854)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/privacy-preserving%20deep%20learning%20via%20additively%20homomorphic%20encryption.pdf)
 
-- Scalable and Secure Logistic Regression via Homomorphic
+- Scalable and Secure Logistic Regression via Homomorphic Encryption
 
-  [arxiv]()     [github]()
+  [acm](https://dl.acm.org/doi/10.1145/2857705.2857731)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Scalable%20and%20Secure%20Logistic%20Regression%20via%20Homomorphic.pdf)
 
 - Secure logistic regression based on homomorphic encryption-Design and evaluation
 
-  [arxiv]()     [github]()
+  [jmir](https://medinform.jmir.org/2018/2/e19/)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Secure%20logistic%20regression%20based%20on%20homomorphic%20encryption-Design%20and%20evaluation.pdf)
 
 #### Privacy-Preserving
 
 - Deep Leakage from Gradients
 
-  [arxiv]()     [github]()
+  [arxiv](https://arxiv.org/abs/1906.08935)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Deep%20Leakage%20from%20Gradients.pdf)
 
 - Threats to Federated Learning:A Survey
 
-  [arxiv]()     [github]()
+  [arxiv](https://arxiv.org/abs/2003.02133)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Threats%20to%20Federated%20Learning%20A%20Survey.pdf)
 
 #### Attacks
 
-- [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Network](https://papers.nips.cc/paper/7849-poison-frogs-targeted-clean-label-poisoning-attacks-on-neural-networks.pdf)
+- Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Network
 
-  [arxiv]()     [github]()
+  [arxiv](https://arxiv.org/abs/1804.00792)     [github]()
 
 - [Analyzing Federated Learning through an Adversarial Lens]
 
@@ -105,7 +105,7 @@
 
 - Fair Resource Allocation in Federated Learning
 
-  [arxiv]()     [github]()
+  [arxiv](https://arxiv.org/abs/1905.10497)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Fair%20Resource%20Allocation%20in%20Federated%20Learning.pdf)
 
 ### Other
 
