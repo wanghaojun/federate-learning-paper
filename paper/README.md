@@ -4,9 +4,24 @@
 ### Survey
 
 - A Survey on Federated Learning Systems：Vision Hype and Reality for Data Privacy and Protection
+
+   [arxiv](https://arxiv.org/abs/1907.09693)      [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/A%20Secure%20Federated%20Transfer%20Learning.pdf)
+
 - Advances and Open Problems in Federated Learning
+
+   [arxiv](https://arxiv.org/abs/1912.04977)      [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Advances%20and%20Open%20Problems%20in%20Federated%20Learning.pdf)
+
 - Federated Machine Learning Concept and Applications
-- Threats to Federated Learning:A Survey
+
+   [arxiv](https://arxiv.org/abs/1902.04885)      [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Federated%20Machine%20Learning%20Concept%20and%20Applications.pdf)
+
+- Federated Learning Challenges,Methods,and Future Directions
+
+  [arxiv](https://arxiv.org/abs/1908.07873)      [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Federated Learning Challenges,Methods,and Future Directions)
+
+- Threats to Federated Learning: A Survey
+
+   [arxiv](https://arxiv.org/abs/2003.02133)      [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Threats%20to%20Federated%20Learning%20A%20Survey.pdf)
 
 ### Model
 
@@ -15,36 +30,82 @@
 #### HFL
 
 - Communication-Efficient Learning of Deep Networks from Decentralized Data
+
+  [arxiv]()     [github]()
+
 - Federated Learning For Mobile Keyboard Prediction
+
+  [arxiv]()     [github]()
+
 - Practical Secure Aggregation for Federated learning on User-Held Data
+
+  [arxiv]()     [github]()
 
 #### VFL
 
 - Multi-Participant Multi-Class Vertical Federated Learning
+
+  [arxiv]()     [github]()
+
 - SecureBoost: A Lossless Federated Learning Framework
+
+  [arxiv]()     [github]()
 
 #### FTL
 
 - [A Secure Federated Transfer Learning](paper/A Secure Federated Transfer Learning.pdf)
 
-### Security
+  [arxiv]()     [github]()
 
-隐私保护机器学习（Privacy-Preserving Machine Learning，PPML）是与联邦学习息息相关的，也可以说联邦学习是隐私保护机器学习的最热门的研究方向。
+### Security
 
 #### PPML
 
+隐私保护机器学习（Privacy-Preserving Machine Learning，PPML）是与联邦学习息息相关的，也可以说联邦学习是隐私保护机器学习的最热门的研究方向。
+
 - Practical secure aggregation for privacy-preserving machine learning
+
+  [arxiv]()     [github]()
+
 - privacy-preserving deep learning via additively homomorphic encryption
+
+  [arxiv]()     [github]()
+
 - Scalable and Secure Logistic Regression via Homomorphic
+
+  [arxiv]()     [github]()
+
 - Secure logistic regression based on homomorphic encryption-Design and evaluation
 
-#### Federate Learning Security
+  [arxiv]()     [github]()
+
+#### Privacy-Preserving
 
 - Deep Leakage from Gradients
+
+  [arxiv]()     [github]()
+
+- Threats to Federated Learning:A Survey
+
+  [arxiv]()     [github]()
+
+#### Attacks
+
+- [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Network](https://papers.nips.cc/paper/7849-poison-frogs-targeted-clean-label-poisoning-attacks-on-neural-networks.pdf)
+
+  [arxiv]()     [github]()
+
+- [Analyzing Federated Learning through an Adversarial Lens]
+
+  [arxiv](https://arxiv.org/abs/1811.12470)    [github]()
+
+
 
 ### Fairness 
 
 - Fair Resource Allocation in Federated Learning
+
+  [arxiv]()     [github]()
 
 ### Other
 
