@@ -91,7 +91,7 @@
 
 - a mixed protocol framework for machine learning
 
-  [acm](https://dl.acm.org/doi/10.1145/3243734.3243760)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/a mixed protocol framework for machine learning.pdf)
+  [acm](https://dl.acm.org/doi/10.1145/3243734.3243760)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/A%20Mixed%20Protocol%20Framework%20for%20Machine%20Learning.pdf)
 
 #### Attacks & Threats
 
