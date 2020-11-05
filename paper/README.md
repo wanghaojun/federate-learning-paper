@@ -57,15 +57,15 @@
 
   [arxiv](https://arxiv.org/abs/1812.03337)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/A%20Secure%20Federated%20Transfer%20Learning.pdf)
 
-### Security
+### Privacy-Preserving
 
-#### PPML
+隐私保护机器学习（Privacy-Preserving Machine Learning，PPML）是与联邦学习息息相关的，也可以说联邦学习是隐私保护机器学习的最热门的研究方向。联邦学习中进行隐私保护的主要手段有差分隐私（Differential Privacy，DP）、安全多方计算（Secure Multi-Party Computation, SMC）、同态加密(Homomorphic Encryption,HE)等方式。
 
-隐私保护机器学习（Privacy-Preserving Machine Learning，PPML）是与联邦学习息息相关的，也可以说联邦学习是隐私保护机器学习的最热门的研究方向。
+#### DP
 
-- Practical secure aggregation for privacy-preserving machine learning
 
-  [acm](https://dl.acm.org/doi/10.1145/3133956.3133982)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Practical%20secure%20aggregation%20for%20privacy-preserving%20machine%20learning.pdf)
+
+#### HE
 
 - privacy-preserving deep learning via additively homomorphic encryption
 
@@ -79,7 +79,21 @@
 
   [jmir](https://medinform.jmir.org/2018/2/e19/)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Secure%20logistic%20regression%20based%20on%20homomorphic%20encryption-Design%20and%20evaluation.pdf)
 
-#### Privacy-Preserving
+#### SMC
+
+- Practical secure aggregation for privacy-preserving machine learning
+
+  [acm](https://dl.acm.org/doi/10.1145/3133956.3133982)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Practical%20secure%20aggregation%20for%20privacy-preserving%20machine%20learning.pdf)
+
+- Secure Computation for Machine Learning With SPDZ
+
+  [aixiv](https://arxiv.org/abs/1901.00329)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Secure%20Computation%20for%20Machine%20Learning%20With%20SPDZ.pdf)
+
+- a mixed protocol framework for machine learning
+
+  [acm](https://dl.acm.org/doi/10.1145/3243734.3243760)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/a mixed protocol framework for machine learning.pdf)
+
+#### Attacks & Threats
 
 - Deep Leakage from Gradients
 
@@ -88,8 +102,6 @@
 - Threats to Federated Learning:A Survey
 
   [arxiv](https://arxiv.org/abs/2003.02133)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Threats%20to%20Federated%20Learning%20A%20Survey.pdf)
-
-#### Attacks
 
 - Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Network
 
