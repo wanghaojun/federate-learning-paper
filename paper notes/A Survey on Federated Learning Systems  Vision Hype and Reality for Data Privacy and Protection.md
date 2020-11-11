@@ -103,7 +103,7 @@ FLS中包含三个主要组件：参与者（例如，客户），管理者（�
 
 一个有挑战性和重要的方向是研究计算和通信成本之间的权衡。 具体而言，人们可能想知道收敛速度，两个通信回合之间的局部计算迭代以及总通信回合之间的关系。最近，李等人。  [108]对FedAvg在非IID数据分布上的收敛性做了很好的研究。他们的理论表明，收敛速度与局部迭代总数（即两个通信回合之间的局部计算迭代乘以总通信回合）成反比。
 
-![](http://raw.githubusercontent.com/beichen777/paperimage/main/ASurveyonFederatedLearningSystemsfigure2.PNG)
+![](https://raw.githubusercontent.com/beichen777/paperimage/main/ASurveyonFederatedLearningSystemsfigure2.PNG)
 
 -------------------------
 
@@ -210,7 +210,7 @@ Google键盘[76]是集中式架构的一种情况。 服务器从用户的设备
 
 最后，FL的主要研究方向（也是挑战）是提高有效性，效率和隐私性，这也是评估FLS的三个重要指标。 同时，还有许多其他关于FL的研究主题，例如公平性和激励机制。 由于FL与许多研究领域相关，我们相信FL将吸引更多的研究人员，并且在不久的将来我们将看到更多有趣的研究。
 
-![](http://raw.githubusercontent.com/beichen777/paperimage/main/ASurveyonFederatedLearningSystemstable1.PNG)
+![](https://raw.githubusercontent.com/beichen777/paperimage/main/ASurveyonFederatedLearningSystemstable1.PNG)
 
 ---------------------------------------
 
@@ -345,7 +345,7 @@ Hard等。  [76]将FL应用于移动键盘下一个单词的预测。 他们采�
 
 FATE是工业级别的FL框架，旨在在不同组织之间提供FL服务。  FATE的总体结构如图4所示。它具有六个主要模块：EggRoll，FederatedML，FATE-Flow，FATE-Serving，FATE-Board和KubeFATE。  EggRoll管理分布式计算和存储。 它为其他模块提供计算和存储AIP。  FederatedML包括联合算法和安全协议。 当前，它支持在水平和垂直联合设置下训练多种类型的机器学习模型，包括NN，GBDT和Logistic回归。 而且，它集成了安全的多方计算和同态加密，以提供隐私保证。  FATE-Flow是供用户定义其FL处理流程的平台。 管道可以包括数据预处理，联合培训，联合评估，模型管理和模型发布。  FATE-Serving为用户提供推理服务。 它支持加载FL模型并对其进行在线推断。  FATE-Board是FATE的可视化工具。 它提供了一种视觉方式来跟踪作业执行和模型性能。 最后，KubeFATE通过使用Docker或Kubernetes帮助在集群上部署FATE。 它提供定制的部署和群集管理服务。 通常，FATE是功能强大且易于使用的FLS。 用户只需设置参数即可运行FL算法。 此外，FATE提供了有关其部署和使用的详细文档。 但是，由于FATE提供了算法级别的接口，因此从业人员必须修改FATE的源代码以实现自己的联合算法。 对于非专业用户而言，这并不容易。
 
-![](http://raw.githubusercontent.com/beichen777/paperimage/main/ASurveyonFederatedLearningSystemsfigure45.PNG)
+![](https://raw.githubusercontent.com/beichen777/paperimage/main/ASurveyonFederatedLearningSystemsfigure45.PNG)
 
 -------------------------
 
@@ -361,7 +361,7 @@ PySyft，首先由Ryffel等提出。  [148]是一个python库，为开发人员�
 
 PaddleFL是基于PaddlePaddle 12的FLS，PaddlePaddle 12是百度开发的深度学习平台。PaddleFL的系统结构如图6所示。在编译时，有四个组件，包括FL策略，用户定义的模型和算法，分布式训练配置以及FL作业生成器。  FL策略包括水平FL算法，例如FedAvg。 垂直FL算法将在未来集成。 除了提供的FL策略外，用户还可以定义自己的模型和训练算法。 分布式训练配置在分布式设置中定义训练节点信息。  FL作业生成器为联合服务器和工作者生成作业。 在运行时，有三个组件，包括FL服务器，FL工作器和FL调度程序。 服务器和工作者分别是FL中的管理者和参与方。 调度员选择参加每一轮培训的工人。 目前，PaddleFL的开发仍处于早期阶段，文档和示例还不够清楚。
 
-![](http://raw.githubusercontent.com/beichen777/paperimage/main/ASurveyonFederatedLearningSystemsfigure6.PNG)
+![](https://raw.githubusercontent.com/beichen777/paperimage/main/ASurveyonFederatedLearningSystemsfigure6.PNG)
 
 --------------
 
@@ -376,7 +376,7 @@ PaddleFL是基于PaddlePaddle 12的FLS，PaddlePaddle 12是百度开发的深度
 总体而言，FATE和PaddleFL尝试提供算法级别的API供用户直接使用，而TFF和PySyft尝试提供更详细的构造块，以便开发人员可以轻松地实现其FL流程。 表2显示了开源系统之间的比较。 在算法级别，FATE是最全面的系统，在水平和垂直设置下都支持许多机器学习模型。  TFF和PySyft仅实现FedAvg，这是FL中的基本框架，如5.2节所示。  PaddleFL支持当前关于NN和逻辑回归的几种水平FL算法。
    与FATE和TFF相比，PySyft和PaddleFL提供了更多的隐私机制。  PySyft涵盖了TFF支持的所有列出的功能，而TFF基于TensorFlow，而PySyft与PyTorch更好地配合使用。
 
-![](http://raw.githubusercontent.com/beichen777/paperimage/main/ASurveyonFederatedLearningSystemstable2.PNG)
+![](https://raw.githubusercontent.com/beichen777/paperimage/main/ASurveyonFederatedLearningSystemstable2.PNG)
 
 --------------
 
@@ -420,7 +420,7 @@ FLS的一项重要要求是保护用户隐私。 在这里，我们分析管理�
 
 在本节中，我们根据分类法介绍了FL的几种实际应用，如表3所示。
 
-![](http://raw.githubusercontent.com/beichen777/paperimage/main/ASurveyonFederatedLearningSystemstable3.PNG)
+![](https://raw.githubusercontent.com/beichen777/paperimage/main/ASurveyonFederatedLearningSystemstable3.PNG)
 
 ---------------
 
@@ -484,5 +484,5 @@ FLS的一项重要要求是保护用户隐私。 在这里，我们分析管理�
 
 已经致力于开发联合学习系统（FLS）的许多努力。 现有FLS的完整概述和摘要非常重要且有意义。 受以前的联邦系统的启发，我们已经表明，异质性和自治性是实际FLS设计中的两个重要因素。此外，我们从六个不同方面为FLS提供了全面的分类。 基于这些方面，我们还介绍了现有FLS之间的功能和设计比较。 更重要的是，我们指出了许多机遇，从更多基准测试到新兴平台（如区块链）的集成。  FLS将是一个令人兴奋的研究方向，需要机器学习，系统和数据隐私社区的努力。
 
-![](http://raw.githubusercontent.com/beichen777/paperimage/main/ASurveyonFederatedLearningSystemsend.jpg)
+![](https://raw.githubusercontent.com/beichen777/paperimage/main/ASurveyonFederatedLearningSystemsend.jpg)
 
