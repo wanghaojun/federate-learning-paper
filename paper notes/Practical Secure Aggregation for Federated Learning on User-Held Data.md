@@ -63,7 +63,7 @@ $$
 
 安全聚合的受限情况（其中除一个用户外，所有用户都具有输入0）可以表示为就餐密码学家网络（DC-net），它通过使用输入的成对盲法提供匿名性[3，9]，从而可以无可奈何地学习每个 用户的输入。 最近的研究已经检查了恶意用户在场时的通信效率和操作[5]。 但是，即使一个用户中止得太早，现有协议也必须从头开始，这可能会非常昂贵[13]。已经探索了基于模加法的加密方案中的成对盲，但是现有方案既不能有效用于矢量，也不能可靠地解决单个故障[2，12]。 其他方案（例如    基于Paillier密码系统[15]的计算非常昂贵。
 
-![](http://raw.githubusercontent.com/beichen777/paperimage/main/PracticalSecureAggregationforFederatedlearningonUser-HeldDatatable1.PNG)
+![](https://raw.githubusercontent.com/beichen777/paperimage/main/PracticalSecureAggregationforFederatedlearningonUser-HeldDatatable1.PNG)
 
 --------------------
 
