@@ -70,9 +70,9 @@ dirty-label中毒的一个常见例子是标签翻转攻击，将一个类的诚
 
 在FL训练期间交换梯度会导致严重的隐私泄露。如图3所示，由于深度学习模型似乎在内部识别了许多与主要任务没有明显关联的数据特征，因此，模型更新可能会将参与者训练数据的非预期特征的额外信息泄露给敌对的参与者。对手也可以保存FL模型参数的快照，并通过利用连续快照之间的差异来进行属性推断，这等于所有参与者减去对手的聚合更新（图4）。
 
-![图3](https://github.com/Ifendifr/Mypicture/blob/main/2.jpg?raw=true)
+![](https://github.com/Ifendifr/Mypicture/blob/main/2.jpg?raw=true)
 
-![图4](https://github.com/Ifendifr/Mypicture/blob/main/3.jpg?raw=true)
+![](https://github.com/Ifendifr/Mypicture/blob/main/3.jpg?raw=true)
 
 主要原因是梯度来自于参与者的私有数据。在深度学习模型中，给定一层的梯度是使用这一层的特征和来自上层的误差来计算的。例如卷积层，权值的梯度是上层的误差和特征的卷积。所以对模型更新的观察可以用来推断大量的私有信息，如类代表、成员关系以及与训练数据子集相关的属性。更可怕的是，攻击者可以从共享的梯度中推断出标签，并且不需要任何关于训练集的先验知识就可以恢复原始的训练样本。
 
