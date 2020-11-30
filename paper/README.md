@@ -5,7 +5,7 @@
 
 - A Survey on Federated Learning Systems：Vision Hype and Reality for Data Privacy and Protection
 
-   [arxiv](https://arxiv.org/abs/1907.09693)      [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/A%20Secure%20Federated%20Transfer%20Learning.pdf)
+   [arxiv](https://arxiv.org/abs/1907.09693)      [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/A%20Survey%20on%20Federated%20Learning%20Systems%20%20Vision%20Hype%20and%20Reality%20for%20Data%20Privacy%20and%20Protection.pdf)
 
 - Advances and Open Problems in Federated Learning
 
