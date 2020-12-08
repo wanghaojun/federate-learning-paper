@@ -95,6 +95,9 @@
   
 #### SGX
 
+- Glimmers: Resolving the Privacy/Trust Quagmire
+
+[github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Glimmers%20Resolving%20the%20Privacy%20Trust%20Quagmire.pdf)
 
 #### Attacks & Threats
 
