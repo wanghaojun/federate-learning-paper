@@ -92,6 +92,12 @@
 - a mixed protocol framework for machine learning
 
   [acm](https://dl.acm.org/doi/10.1145/3243734.3243760)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/A%20Mixed%20Protocol%20Framework%20for%20Machine%20Learning.pdf)
+  
+#### SGX
+
+- Glimmers: Resolving the Privacy/Trust Quagmire
+
+  [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Glimmers%20Resolving%20the%20Privacy%20Trust%20Quagmire.pdf)
 
 #### Attacks & Threats
 
