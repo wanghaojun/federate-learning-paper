@@ -41,6 +41,12 @@
 
   [arxiv](https://arxiv.org/abs/1611.04482)     [github](https://github.com/wanghaojun/federate-learning-paper/blob/main/paper/Practical%20Secure%20Aggregation%20for%20Federated%20learning%20on%20User-Held%20Data.pdf)
 
+- Federated Multi-Task Learning
+
+  [arxiv](https://arxiv.org/abs/1705.10467) 
+
+#### 
+
 #### VFL
 
 - Multi-Participant Multi-Class Vertical Federated Learning
